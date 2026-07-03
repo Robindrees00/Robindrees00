@@ -1,16 +1,14 @@
-## Hi there 👋
+### Robin Drees
+**AI Product Engineer — Frontend + LLM-Agenten**
 
-<!--
-**Robindrees00/Robindrees00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich baue Produkte an der Schnittstelle von Frontend und KI: im Browser sprechbare Voice-Agenten,
+LLM-Pipelines mit deterministischen Guardrails und Automationen, die echte Arbeit abnehmen.
 
-Here are some ideas to get you started:
+🎙️ **Flagship — [Everlast Voice Lead Demo](https://github.com/Robindrees00/everlast-voice-lead-demo)**
+Ein KI-Telefonassistent, der eingehende Anrufe qualifiziert und den bewerteten Lead automatisch ins
+CRM schreibt (ElevenLabs + n8n + LLM). **[→ Live sprechen mit „Mara"](https://shp24.com/robin/everlast/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** React · JavaScript · Vue · PHP · Java · SQL · Python · LLM-Integration (Groq/OpenAI) · n8n · Node.js
+
+- 🌐 Portfolio: [shp24.com/robin](https://shp24.com/robin/)
+- 📫 robindrees@gmx.de
